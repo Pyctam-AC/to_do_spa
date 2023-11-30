@@ -22,8 +22,8 @@ http://localhost:5173/
 - проект написан на [TypeScript](https://www.typescriptlang.org/)
 - в проекте использован стейт-мендежер [Zustand](https://github.com/pmndrs/zustand)
 - сохранение данных выполняется локально в браузере при помощи localStorage
-- выполнена адаптивная вёрстка под разные жкраны устройство
+- выполнена адаптивная вёрстка под разные экраны устройств
 
-открыть приложение по [ссылке](https://pyctam-ac.github.io/to_do_spa/)
+открыть приложение можно по [ссылке](https://pyctam-ac.github.io/to_do_spa/)
 
 <img align="left" src="./src/assets/20231201_004043.gif" width="320" alt="tapping on the keyboard"/>
