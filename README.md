@@ -24,4 +24,6 @@ http://localhost:5173/
 - сохранение данных выполняется локально в браузере при помощи localStorage
 - выполнена адаптивная вёрстка под разные жкраны устройство
 
+открыть приложение по [ссылке](https://pyctam-ac.github.io/to_do_spa/)
+
 <img align="left" src="./src/assets/20231201_004043.gif" width="320" alt="tapping on the keyboard"/>
